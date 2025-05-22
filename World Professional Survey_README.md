@@ -6,7 +6,7 @@ Task:
   1. Data cleaning using power query
   2. Data visualization
 
-## 🧹 Data Cleaning (Power Query)
+## Data Cleaning (Power Query)
 Performed in Power BI using **Power Query Editor**:
 
 - ✅ Removed nulls and duplicates
@@ -17,7 +17,7 @@ Performed in Power BI using **Power Query Editor**:
 - ✅ Created calculated columns/measures
 - ✅ Created average salary from salary range columns
 
-## 📊 Dashboard Features
+## Dashboard Features
 - ✅ Interactive slicers for countries
 - ✅ Dynamic charts
 - ✅ Salary and job satisfacion ratings
