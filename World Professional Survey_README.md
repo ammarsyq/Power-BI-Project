@@ -1,6 +1,7 @@
 World Professional Survey - Power BI Mini Project.
 
 Main Goal: Create an interactive dashboard using power BI
+
 Task:
   1. Data cleaning using power query
   2. Data visualization
